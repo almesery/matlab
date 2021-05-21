@@ -21,7 +21,7 @@ d(3) = -temperatureLeftRight;
 %% node 5
 a(4, :) = [0, 1, 2, -4, 0, 1];
 
-%% node 7 & 9
+%% node 7 and 9
 a(5, :) = [0, 0, 2, 0, -4, 1];
 d(5) = -temperatureLeftRight;
 
