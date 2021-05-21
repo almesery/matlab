@@ -4,7 +4,6 @@ clear;
 %% asking user to enter some data
 thermalConductivity = input('Thermal Conductivity: ');
 length = input('Length : ');
-width = input('Width : ');
 temperatureLeftRight = input('Temperature at left and right bounderies : ');
 H = input('Convection Coefficient : ');
 temperatureOfAir = input('Temperature of air : ');

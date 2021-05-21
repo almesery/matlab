@@ -30,7 +30,7 @@ a(6, :) = [0, 0, 0, 2, 2, -4];
 
 result = a \ d;
 
-fprintf('%d\n', R);
+fprintf('%d\n', result);
 
 %% create file with result
 create_file(createTextFile, result)
